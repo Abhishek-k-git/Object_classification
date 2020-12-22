@@ -1,4 +1,4 @@
-_**Object classification using 'VGG16'**_
+Object classification using 'VGG16'
 {: .alert .alert-info .text-center}
 
 - _**Description:**_ <br>
