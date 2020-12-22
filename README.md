@@ -1,6 +1,8 @@
-Object classification using 'VGG16'
+_**Object classification using 'VGG16'**_
+<!--
+this is in center
 {: .alert .alert-info .text-center}
-
+-->
 - _**Description:**_ <br>
      Use **VGG16** model to classify objects by name using user sample photo.<br>
      
