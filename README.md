@@ -10,7 +10,11 @@
  1. Tensorflow : TensorFlow is an open source software library for high performance numerical computation. Its flexible architecture allows easy deployment of computation across a variety of platforms (CPUs, GPUs, TPUs), and from desktops to clusters of servers to mobile and edge devices.
  Originally developed by researchers and engineers from the Google Brain team within Google's AI organization, it comes with strong support for     machine learning and deep learning and the flexible numerical computation core is used across many other scientific domains.
  2. Keras : Keras is a high-level neural networks API for Python.Keras is compatible with Python 3.6+
- <span style="color:green">It comes preinstalled with tensorflow </span>
+ 
+```diff
++ It comes preinstalled with tensorflow
+```
+<br>
 
 > Installation
 
